@@ -17,3 +17,8 @@ To convert the images run:
 ```bash
 python ./run_prepareimg.py
 ```
+ 
+To serve the files, run:
+```bash
+./run_img_server.sh
+```
