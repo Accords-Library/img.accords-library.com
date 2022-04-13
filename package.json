@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "http-server": "^14.1.0"
+  }
+}
